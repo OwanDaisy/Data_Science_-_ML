@@ -9,17 +9,8 @@ The dataset used in this project is sourced from Kaggle and consists of fictiona
 ## Project Structure
 
 The project repository is structured as follows:
-
-```
-|-- data/
-|   |-- sonar.csv
-|-- notebooks/
-|   |-- Mine_Rock_Model.ipynb
-|-- README.md
-```
-
-* The `data` directory contains the `sonar.csv` file, which is the dataset used for training and testing the model.
-* The `notebooks` directory holds the `Mine_Rock_model.ipynb` Jupyter Notebook. This notebook provides a step-by-step implementation of the logistic regression model, including data exploration, preprocessing, model training, evaluation, and visualization.
+* The  `sonar.csv` file, which is the dataset used for training and testing the model.
+* The  `Mine_Rock_model.ipynb` Jupyter Notebook. This notebook provides a step-by-step implementation of the logistic regression model, including data exploration, preprocessing, model training, evaluation, and visualization.
 * The `README.md` file (this file) serves as a guide to the repository, offering an overview of the project and its structure.
 
 ## Getting Started
@@ -28,7 +19,7 @@ To begin exploring and working with this project, follow the steps below:
 
 1. Clone this repository to your local machine using `git clone`.
 2. Ensure you have the necessary dependencies installed. 
-3. Open the Jupyter Notebook `Mine_Rock_model.ipynb` in the `notebooks` directory.
+3. Open the Jupyter Notebook `Mine_Rock_model.ipynb`.
 4. Run each cell in the notebook to see the project implementation and understand the process.
 5. Feel free to modify and experiment with the code as needed for your own analysis.
 
